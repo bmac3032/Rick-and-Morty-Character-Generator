@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+p .badge {
+  display: block !important;
+  width: 50% !important;
+  margin: auto !important;
+}
